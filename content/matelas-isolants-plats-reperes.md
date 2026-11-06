@@ -1,6 +1,6 @@
 ---
-title: Matelas isolants plats : les repères avant de choisir
-description: Comprendre à quoi servent les matelas isolants plats et quoi vérifier avant de choisir.
+title: "Matelas isolants plats : les repères avant de choisir"
+description: "Comprendre à quoi servent les matelas isolants plats et quoi vérifier avant de choisir."
 tags:
   - industrie
   - isolation
